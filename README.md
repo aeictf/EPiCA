@@ -1,6 +1,7 @@
 Information
 
 This package is an implementation of the Pierre Connes' algorithm (Connes 1985).
+EPiCA (Exoplanetary Pierre Connes Algorithm)
 Current version works only for pipeline ESPRESSO CCFs, summed-up.
 
 Requirements
