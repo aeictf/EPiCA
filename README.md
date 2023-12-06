@@ -1,4 +1,5 @@
 Information
+Currently under constructions 🚧🏗, first stable release version is expected in January 2024.
 
 This package is an implementation of the Pierre Connes' algorithm (Connes 1985).
 EPiCA (Exoplanetary Pierre Connes Algorithm)
